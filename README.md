@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Yogesh.S </h3>
-<h3>Register Number: 212224230311</h3>
+<h3>Name: ROHITH T </h3>
+<h3>Register Number: 212223040173</h3>
 
 
 <h3>AIM:</h3>
